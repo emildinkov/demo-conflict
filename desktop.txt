@@ -1,3 +1,4 @@
 File created with git desktop commit
 
 Added second line with desktop commit
+Added line through git bash commit
